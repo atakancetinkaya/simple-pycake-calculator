@@ -84,7 +84,7 @@ jupyter notebook
 
 - This is a short description which shows, how my Python-Script works.
 
-<img src="https://github.com/atakancetinkaya/blob/main/pycake_screenshots/pycake_calculator_demo.png" alt="SS-1">
+<img src="https://github.com/atakancetinkaya/simple-pycake-calculator/blob/main/pycake_screenshots/pycake_calculator_demo.png" alt="SS-1">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
